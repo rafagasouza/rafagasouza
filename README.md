@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ráfaga Souza and I am a Full Stack Javascript Developer, from Belo Horizonte - MG</p>
+<p align="left">My name is Ráfaga Souza and I am a future Full Stack Javascript Developer, from Belo Horizonte - MG</p>
 
 ###
 
